@@ -1,6 +1,6 @@
 # DevOps - Automated Builds & Pushing to Docker Hub
-
-This repository demonstrates how to use GitHub Actions to implement a CI/CD workflow that automatically tests, builds, and pushes a Docker image to Docker Hub.
+---
+I have used GitHub Actions to implement a CI/CD workflow that automatically tests, builds, and pushes a Docker image to Docker Hub.
 ---
 
 ## Repository Setup
